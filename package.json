@@ -1,0 +1,32 @@
+{
+  "name": "reactlearning",
+  "version": "1.0.0",
+  "description": "This is Namaste React Episode 2",
+  "target": {
+    "main": "false"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pewpew695/ReactLearning.git"
+  },
+  "author": "Ashley Dsouza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pewpew695/ReactLearning/issues"
+  },
+  "homepage": "https://github.com/pewpew695/ReactLearning#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 Chrome version",
+    "last 2 Firefox version"
+  ]
+}
